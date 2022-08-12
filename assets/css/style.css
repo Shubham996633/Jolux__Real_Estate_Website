@@ -382,7 +382,6 @@ body.dark-theme{
 .home__value{
     display: flex;
     column-gap: 2.5rem;
-
 }
 .home__value-number{
     font-size: var(--h1-font-size);
@@ -411,9 +410,7 @@ body.dark-theme{
     background: linear-gradient(180deg,
                                 hsl(0,0%,16%) 93%,
                                 hsl(0,0%,67%) 100%);
-
     border-radius: 135px 135px 0 0;
-
 }
 
 .home__img{
@@ -495,7 +492,7 @@ body.dark-theme{
     margin-bottom: .25rem;
 }
 .popular__price span{
-    color: var(--second-color);
+    color: #eb7724;
 }
 .popular__title{
     font-size: var(--h3-font-size);
